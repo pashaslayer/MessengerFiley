@@ -10,4 +10,3 @@
 100005;nikkk;nikkk;nikkk
 100006;pavel.khakhlou@mail.ru;Pavel;Pavel2004
 100007;Andreas.a@mail.ru;Andreas;and
-100008;s;s;s
